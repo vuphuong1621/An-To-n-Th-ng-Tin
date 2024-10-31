@@ -48,3 +48,11 @@ Câu hỏi 3: Em hiểu thế nào là virus? có phải tất cả phần mềm
 
 Câu trả lời:
 Virus máy tính là một loại phần mềm độc hại (malware) có khả năng tự sao chép và lây lan từ máy này sang máy khác, thường gây hại cho dữ liệu hoặc hệ thống. Tuy nhiên, không phải tất cả phần mềm độc hại đều là virus.
+
+Các loại phần mềm độc hại khác bao gồm:
+- Worms (Sâu): Tự sao chép mà không cần gắn vào một chương trình khác.
+- Trojan (Ngựa Trojan): Ngụy trang dưới dạng phần mềm hợp pháp nhưng chứa mã độc.
+- Ransomware: Mã hóa dữ liệu và yêu cầu tiền chuộc để khôi phục.
+- Spyware: Theo dõi và thu thập thông tin cá nhân mà không có sự đồng ý.
+- Adware: Hiển thị quảng cáo không mong muốn, có thể thu thập dữ liệu.
+- Rootkits: Cho phép kẻ tấn công điều khiển máy tính từ xa và thường khó phát hiện.
