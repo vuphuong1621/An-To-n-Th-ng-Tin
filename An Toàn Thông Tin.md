@@ -44,6 +44,7 @@ Mục tiêu: Lừa nạn nhân đầu tư tiền vào các kế hoạch không c
 Cách thức: Tạo hồ sơ giả trên các trang hẹn hò hoặc mạng xã hội, xây dựng mối quan hệ tình cảm với nạn nhân trước khi yêu cầu tiền hoặc quà.
 Mục tiêu: Lừa đảo tài chính từ nạn nhân thông qua lòng tin và tình cảm.
 
-Câu hỏi 3: em hiểu thế nào là virus? có phải tất cả phần mềm độc hại đều là virus?
+Câu hỏi 3: Em hiểu thế nào là virus? có phải tất cả phần mềm độc hại đều là virus?
+
 Câu trả lời:
 Virus máy tính là một loại phần mềm độc hại (malware) có khả năng tự sao chép và lây lan từ máy này sang máy khác, thường gây hại cho dữ liệu hoặc hệ thống. Tuy nhiên, không phải tất cả phần mềm độc hại đều là virus.
