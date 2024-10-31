@@ -20,6 +20,7 @@ Người dùng có thể lưu trữ thông tin nhạy cảm (như mật khẩu) 
 Nếu một tài khoản bị xâm phạm, kẻ xấu có thể thử mật khẩu đó cho các tài khoản khác, dẫn đến lộ thông tin cá nhân trên nhiều nền tảng.
 - Chia sẻ thông tin qua ứng dụng nhắn tin không bảo mật:
 Gửi thông tin nhạy cảm qua các ứng dụng nhắn tin không mã hóa có thể bị chặn và đọc bởi kẻ xấu.
+
 Câu hỏi 2: Em có biết hành vi lừa đảo trên mạng và cách thức tội phạm thực hiện hành vi lừa đảo
 1. Phishing (Lừa đảo qua email)
 Cách thức: Tội phạm gửi email giả mạo từ các tổ chức đáng tin cậy (như ngân hàng, dịch vụ trực tuyến) yêu cầu người nhận cung cấp thông tin cá nhân, tài khoản hoặc mật khẩu qua một liên kết đến trang web giả.
@@ -42,6 +43,7 @@ Mục tiêu: Lừa nạn nhân đầu tư tiền vào các kế hoạch không c
 7. Lừa đảo tình cảm (Romance Scams)
 Cách thức: Tạo hồ sơ giả trên các trang hẹn hò hoặc mạng xã hội, xây dựng mối quan hệ tình cảm với nạn nhân trước khi yêu cầu tiền hoặc quà.
 Mục tiêu: Lừa đảo tài chính từ nạn nhân thông qua lòng tin và tình cảm.
+
 Câu hỏi 3: em hiểu thế nào là virus? có phải tất cả phần mềm độc hại đều là virus?
 Câu trả lời:
 Virus máy tính là một loại phần mềm độc hại (malware) có khả năng tự sao chép và lây lan từ máy này sang máy khác, thường gây hại cho dữ liệu hoặc hệ thống. Tuy nhiên, không phải tất cả phần mềm độc hại đều là virus.
